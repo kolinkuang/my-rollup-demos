@@ -1,0 +1,16 @@
+{
+  "name": "demo0",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "rollup": "^2.38.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "build": "rollup index.js -o dist.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
